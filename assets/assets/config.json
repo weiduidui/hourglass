@@ -1,0 +1,38 @@
+[
+  {
+    "name": "西格玛",
+    "role": "t",
+    "voiceDescription": "放了我",
+    "voiceResourcePath": "sounds/eede5e15-242b-4ae8-bf7a-8a5aad11b88b.mp3"
+  },
+  {
+    "name": "天使",
+    "role": "s",
+    "voiceDescription": "大招",
+    "voiceResourcePath": "sounds/6372de08-1a67-4938-a336-5f697bfc8695.mp3"
+  },
+  {
+    "name": "铁拳",
+    "role": "t",
+    "voiceDescription": "毁天灭地",
+    "voiceResourcePath": "sounds/23c6d35f-58fc-4458-973a-5426778d02b5.mp3"
+  },
+  {
+    "name": "布里吉塔",
+    "role": "s",
+    "voiceDescription": "大招",
+    "voiceResourcePath": "sounds/9af9a2fa-8c04-4994-a689-479527b30edd.mp3"
+  },
+  {
+    "name": "半藏",
+    "role": "c",
+    "voiceDescription": "咬死他们, 小龙龙",
+    "voiceResourcePath": "sounds/8100ffbc-47a6-46aa-b430-95c0b6b1f787.mp3"
+  },
+  {
+    "name": "源氏",
+    "role": "s",
+    "voiceDescription": "大招",
+    "voiceResourcePath": "sounds/6811577a-6c4a-447b-b389-2c0af230c188.mp3"
+  }
+]
